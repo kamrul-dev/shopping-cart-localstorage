@@ -1,0 +1,32 @@
+[
+    {
+      "id": "6237588197402c79e7425516",
+      "price": 209,
+      "name": "snow"
+    },
+    {
+      "id": "623758816b836bc1e11e67f1",
+      "price": 365,
+      "name": "soap"
+    },
+    {
+      "id": "62375881aa5758a33d9510da",
+      "price": 291,
+      "name": "nail-polish"
+    },
+    {
+      "id": "6237588173d0ff7aa73376e3",
+      "price": 318,
+      "name": "rubber"
+    },
+    {
+      "id": "623758815446dc05a2beb4b8",
+      "price": 252,
+      "name": "Hair-binder"
+    },
+    {
+      "id": "62375881c2a1d82953ab1ae3",
+      "price": 337,
+      "name": "sampoo"
+    }
+  ]

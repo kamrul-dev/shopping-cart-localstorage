@@ -8,6 +8,7 @@ const Cosmetic = (props) => {
             <h3>name: {name}</h3>
             <h4>Price: {price}</h4>
             <p>It has id: {id}</p>
+            <button>Add to Cart</button>
         </div>
     );
 };
